@@ -19,6 +19,8 @@ The goal of this project is to detect and recognize human faces in images, and t
 2. **Face Recognition**
 3. **Performance Evaluation**
 
+https://github.com/user-attachments/assets/a538d256-b7ed-4a94-bf30-930ce85fc0c0
+
 ## 🧠 Face Detection
 
 Implemented using OpenCV’s Haar Cascade Classifier. The process includes:
